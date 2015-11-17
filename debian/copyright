@@ -1,0 +1,15 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: go-charset
+Source: https://github.com/rogpeppe/go-charset
+
+Files: *
+Copyright: 2015 Roger Peppe
+License: TODO
+
+Files: debian/*
+Copyright: 2015 Markus Sabadello <markus@projectdanube.org>
+License: TODO
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: TODO
+TODO

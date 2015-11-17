@@ -1,0 +1,21 @@
+Source: golang-github-rogpeppe-go-charset
+Section: devel
+Priority: extra
+Maintainer: Debian Go Packaging Team <pkg-go-maintainers@lists.alioth.debian.org>
+Uploaders: Markus Sabadello <markus@projectdanube.org>
+Build-Depends: debhelper (>= 9),
+               dh-golang,
+               golang-go
+Standards-Version: 3.9.6
+Homepage: https://github.com/rogpeppe/go-charset
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-go/packages/golang-github-rogpeppe-go-charset.git
+Vcs-Git: git://anonscm.debian.org/pkg-go/packages/golang-github-rogpeppe-go-charset.git
+XS-Go-Import-Path: github.com/rogpeppe/go-charset
+
+Package: golang-github-rogpeppe-go-charset-dev
+Architecture: all
+Depends: ${shlibs:Depends},
+         ${misc:Depends},
+         golang-go
+Description: charset conversions in Go (superceded)
+ TODO: long description
