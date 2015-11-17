@@ -1,5 +1,5 @@
 golang-github-rogpeppe-go-charset (0.0~git20150615.0.e9ff06f-1) UNRELEASED; urgency=medium
 
-  * Initial release (Closes: TODO)
+  * Initial release
 
  -- Markus Sabadello <markus@projectdanube.org>  Tue, 17 Nov 2015 15:36:23 +0100
